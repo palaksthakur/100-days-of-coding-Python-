@@ -1,4 +1,4 @@
-# 100-days-of-coding-Python-
+# 100-days-of-coding-Python
 # Band Name Generator
 My first Python project from the 100 Days of Code Course.
 ## What it does
