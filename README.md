@@ -1,2 +1,18 @@
 # 100-days-of-coding-Python-
-I'm documenting my 100 Days of Coding journey to build consistency, strengthen my Python skill, and track my progress as a first year student. This repository will showcase my learning, practice, projects, and progress throughout the journey. My goal is to make the most of my first year by focusing not only on academics, but also on developing practical technical skills.
+# Band Name Generator
+My first Python project from the 100 Days of Code Course.
+## What it does
+The program asks the user:
+1. The city they grew up in
+2. The name of their pet
+It then combines the two answers to generate a fun band name
+## Example
+City: Thane
+Pet: Bruno
+Generated Band Name:
+Thane Bruno
+## Concept Learned
+- print()
+- input()
+- Variables
+- String concatenation
