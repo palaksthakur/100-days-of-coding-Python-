@@ -1,2 +1,2 @@
 # 100-days-of-coding-Python-
-I'm documenting my 100 Days of Coding journey to build consistency, strength my Python skill, and track my progress as a first year student. This repository will showcase my learning, practice, projects, and progress throughout the journey. My goal is to make the most of my first year by focusing not only on academics, but also on developing practical technical skills.
+I'm documenting my 100 Days of Coding journey to build consistency, strengthen my Python skill, and track my progress as a first year student. This repository will showcase my learning, practice, projects, and progress throughout the journey. My goal is to make the most of my first year by focusing not only on academics, but also on developing practical technical skills.
