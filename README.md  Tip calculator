@@ -7,7 +7,7 @@ The user enters:
 2. The desired tip percentage
 3. The number of people sharing the bill
 The program then calculate the total amount including the tip and the amount each person should pay.
-Technologies Used
+Technologies Used:
 Python
 Example:
 Welcome to the tip calculator!
