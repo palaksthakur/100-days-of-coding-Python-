@@ -1,0 +1,25 @@
+Tip Calculator 
+A beginner-friendly Tip Calculator built in Python as part of Day 2 of coding.
+About The Project
+This program calculates how much each person should pay when splitting a bill, including a chosen tip percentage.
+The user enters:
+1. The total bill amount
+2. The desired tip percentage
+3. The number of people sharing the bill
+The program then calculate the total amount including the tip and the amount each person should pay.
+Technologies Used
+Python
+Example:
+Welcome to the tip calculator!
+What was the total bill? $1500
+What percentage tip would you like to give? 10
+How many people to split the bill? 3
+Each person should pay: $550.00
+What I learnt
+While building this project:
+1. Taking user input using input()
+2. Converting strings into numbers
+3. Performing mathematical calculations
+4. Using Variables
+5. Formatting numbers to 2 decimal places
+6. Combining different values to produce a final result
